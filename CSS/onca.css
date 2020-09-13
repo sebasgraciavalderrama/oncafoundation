@@ -1,0 +1,52 @@
+/*----------Start Login CSS----------*/
+
+#page-login-index div > div.col-lg-8.p-0.my-auto > div.searchbox.d-none.d-lg-block > form > div {
+    visibility: hidden;
+}
+
+#page-login-index header {
+    background-color: rgb(170, 146, 202)!important;
+}
+
+#page-login-index div > div.row.justify-content-center.mt-3 > div > div > div > div.card-title > h2 {
+    color: #01272d!important;
+    font-weight: bolder;
+}
+
+
+#page-login-index div > div:nth-child(3) > div > div > div > div > div.row.justify-content-md-center > div:nth-child(2) > div.forgetpass.mt-3 > p > a {
+    color: #01272d!important;
+    font-weight: bolder;
+}
+
+#page-login-index  div.rememberpass.mt-3 > label {
+    color: #01272d;
+}
+
+#page-login-index div.row.justify-content-md-center > div:nth-child(2) > div:nth-child(2) {
+    color: #01272d;
+}
+
+#page-login-index div.row.justify-content-center.mt-3 > div > div > div > div:nth-child(2) {
+    color: #01272d;
+}
+/*----------End Login CSS----------*/
+
+a, a:visited, .tabtree .tabrow0 li a {
+    color: #01272d;
+    text-decoration: none;
+}
+
+#sitetitle, #sitetitle a, #sitetitle p, #sitetitle h1 {
+    color: #01272d!important;
+}
+
+.block .content a, .block .content li a, .block .content td a {
+    color: #01272d;
+}
+.block_navigation .block_tree .tree_item.branch {
+    color: #01272d!important;
+}
+.jsenabled .block_settings .block_tree .tree_item.branch, .block_navigation .block_tree .tree_item.branch {
+    color: #01272d!important;
+}
