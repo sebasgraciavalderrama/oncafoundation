@@ -32,6 +32,58 @@
 }
 /*----------End Login CSS----------*/
 
+/*----------Star Course Category CSS----------*/
+#page-course-index-category a, a:visited, .tabtree .tabrow0 li a {
+    color: #01272d;
+    text-decoration: none;
+}
+/*----------End Course Category CSS----------*/
+
+/*----------Star Zoom CSS----------*/
+#page-mod-zoom-view .generaltable {
+    color: #FFFFFF;
+}
+
+#page-mod-zoom-view .generaltable a, a:visited, .tabtree .tabrow0 li a {
+    color: #FFFFFF;
+}
+/*----------End Zoom CSS----------*/
+
+/*----------Start Adaptable Appearance CSS----------*/
+#page-admin-setting-theme_adaptable .generaltable {
+    color: #FFFFFF;
+}
+/*----------End Adaptable Appearance CSS----------*/
+
+/*----------Start Editing a Mod CSS----------*/
+.mform fieldset.collapsible legend a.fheader {
+    color: #ffffff
+}
+/*----------End Editing a Mod CSS----------*/
+
+/*----------Start Breadcrumb  CSS----------*/
+/*----------End Breadcrumb  CSS----------*/
+
+/*----------Start footer CSS----------*/
+#prev-activity-link > span.text {
+    color: #FFFFFF;
+}
+
+#next-activity-link > span.text {
+    color: #FFFFFF;
+}
+/*----------End footer CSS----------*/
+
+/*----------Course View Topics CSS----------*/
+#page-course-view-topics .section-modchooser-text {
+    color: #01272d;
+}
+
+#page-course-view-topics .modal-header .modal-title {
+    color: #01272d;
+}
+/*----------End Course View Topics CSS----------*/
+
 a, a:visited, .tabtree .tabrow0 li a {
     color: #01272d;
     text-decoration: none;
